@@ -16,11 +16,11 @@ You can use the program without being connected to FEUP, but only the offline fe
 
 ## Instalation
 
-To install the program, follow the instruction in []().
+To install the program, follow the instruction in [Instalation Instructions](https://github.com/JFranciscoCarvalho/ShortTrack/blob/13e7c89f70856471cd9b026981230de46b5d0756/documentation/Instalation%20Instructions/Instalation_Instructions.md).
 
 ## User manual
 
-For further details about the program functionalities check the []().
+For further details about the program functionalities check the [User Manual](https://github.com/JFranciscoCarvalho/ShortTrack/blob/13e7c89f70856471cd9b026981230de46b5d0756/documentation/User%20Manual/User_Manual.pdf).
 
 ## Credits
 

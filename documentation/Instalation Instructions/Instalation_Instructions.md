@@ -1,4 +1,4 @@
-Installation Manual deliverable
+# Installation Manual
 
 In order to install the ShortTrack application you need to be in a Windows working device. Then it is necessary to follow the following set of simple steps.
 

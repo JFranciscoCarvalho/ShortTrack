@@ -25,4 +25,5 @@ For further details about the program functionalities check the [User Manual](ht
 ## Credits
 
 Jorge Ribeiro
+
 José Carvalho
